@@ -1,7 +1,5 @@
 # TripleTen web_project_expenses
 
-# TripleTen web_project_expenses
-
 Projeto desenvolvido durante o curso de Desenvolvimento Web da TripleTen.
 
 ## Sobre o projeto
@@ -18,4 +16,4 @@ Entre as funcionalidades implementadas estão o cálculo do total e da média da
 
 ## Projeto
 
-[Visualizar o projeto](https://smanuelareif.github.io/web_project_expenses_pt/)
+Visualizar o projeto: (https://smanuelareif.github.io/web_project_expenses_pt/)
